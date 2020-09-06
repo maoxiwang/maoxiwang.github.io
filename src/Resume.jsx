@@ -10,7 +10,7 @@ const Home = () => (
     <Row>
       <Col>
         <h1>Resume</h1>
-        <h2>Education</h2>
+        <h2>Education</h2>∏
         <LeftRight>
           <div className="font-weight-bold">Senior | The George Washington University | Washington, DC</div>
           <div className="font-italic">Expected May 2021</div>
@@ -58,14 +58,7 @@ const Home = () => (
         </ul>
         
         
-        <LeftRight>
-          <div className="font-weight-bold"> Undergraduate Research Fellow | Fluids Dynamics Lab | Washington, DC</div>
-          <div className="font-italic">May 2018 - September 2018</div>
-        </LeftRight>
-        <ul>
-            <li>Calibrated Pollson cells by finding the diffusivity coefficient of surcrose in calculating the diffusivity of polyvinyl alcohol (PVA)</li>
-            <li>Examined the effect of water absorption rates of PVA and calculated Young's Modulus through MATLLAB and Excel to characterize size distribution bandwidth of different concentrations of polyvinyl alcohol and distillled water.</li>
-          </ul>
+        
         
           <LeftRight>
           <div className="font-weight-bold"> Team Member | GW BAJA SAE | Washington, DC</div>
