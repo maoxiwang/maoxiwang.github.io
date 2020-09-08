@@ -9,6 +9,7 @@ import {
   Route,
 } from "react-router-dom";
 import './style.scss';
+import About from './About';
 
 const App = () => (
   <div className="App">
@@ -17,6 +18,9 @@ const App = () => (
       <Switch>
         <Route path="/resume">
           <Resume />
+        </Route>
+        <Route path="/About">
+          <About />
         </Route>
         <Route path="/">
           <Home />

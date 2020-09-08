@@ -10,7 +10,7 @@ const Home = () => (
     <Row>
       <Col>
         <h1>Resume</h1>
-        <h2>Education</h2>∏
+        <h2>Education</h2>
         <LeftRight>
           <div className="font-weight-bold">Senior | The George Washington University | Washington, DC</div>
           <div className="font-italic">Expected May 2021</div>
@@ -36,7 +36,7 @@ const Home = () => (
         </LeftRight>
         <ul>
           <li>Designed and built radio controlled commercial aircraft capable of carrying a ten-pound passenger load.</li>
-          <li>Conducted flow simulation by using Solid Works to understand airplane pressure distribution.</li>
+          <li>Conducted flow simulation by using SolidWorks to understand airplane pressure distribution.</li>
         </ul>
 
         <LeftRight>
@@ -44,30 +44,30 @@ const Home = () => (
           <div className="font-italic"> February 24, 2019</div>
         </LeftRight>
         <ul>
-          <li>Led a team of four and protoyped Cloud Eater, a mesh system that condenses air water molecules to liquid water using the peltier effect.</li>
-          <li>Placed 4th out of 30 teams in the competition </li>
+          <li>Led a team of four and protoyped Cloud Eater, a mesh system that condenses air water molecules to liquid water using the Peltier effect.</li>
+          <li>Placed 4th out of 30 teams in the competition</li>
         </ul>
 
         <LeftRight>
-          <div className="font-weight-bold"> Undergraduate Research Fellow | Fluids Dynamics Lab | Washington, DC</div>
+          <div className="font-weight-bold">Undergraduate Research Fellow | Fluids Dynamics Lab | Washington, DC</div>
           <div className="font-italic">May 2018 - September 2018</div>
         </LeftRight>
         <ul>
           <li>Calibrated Pollson cells by finding the diffusivity coefficient of surcrose in calculating the diffusivity of polyvinyl alcohol (PVA)</li>
-          <li>Examined the effect of water absorption rates of PVA and calculated Young's Modulus through MATLLAB and Excel to characterize size distribution bandwidth of different concentrations of polyvinyl alcohol and distillled water.</li>
+          <li>Examined the effect of water absorption rates of PVA and calculated Young's Modulus through MATLAB and Excel to characterize size distribution bandwidth of different concentrations of polyvinyl alcohol and distilled water.</li>
         </ul>
         
         
         
         
           <LeftRight>
-          <div className="font-weight-bold"> Team Member | GW BAJA SAE | Washington, DC</div>
+          <div className="font-weight-bold">Team Member | GW BAJA SAE | Washington, DC</div>
           <div className="font-italic">August 2017 - May 2018</div>
         </LeftRight>
         <ul> 
           <li>Placed 26th in the suspension event at the BAJA SAE Maryland Competition.</li>
-          <li>Assembled and digitally designed automotive parts using AutoCAD and SolidWorks for the gearbox cover, spllash shield, and frame of the competition automobiles.</li>
-          <li>Built splash shild, and frame through manufacturing processes such as laser cutter, mill and weld.</li>
+          <li>Assembled and digitally designed automotive parts using AutoCAD and SolidWorks for the gearbox cover, splash shield, and frame of the competition vehicles.</li>
+          <li>Built splash shield and frame through manufacturing processes such as laser cutting, milling and welding.</li>
           <li>Pitched to investors and was responsible for the business aspect of the competition.</li>
         </ul>
 
@@ -77,10 +77,20 @@ const Home = () => (
           <div className="font-italic">September 2019 - Present </div>
         </LeftRight>
         <ul>
-          <li>A dean's mentorship program dedicated to assist incoming freshmen by taking them on the New Student Getaway (NSG), a three-day preorientation camping retreat.</li>
+          <li>Was a mentor for the dean's mentorship program dedicated to assist incoming freshmen by taking them on the New Student Getaway (NSG), a three-day preorientation camping retreat.</li>
           <li>Organized events with the Dean's office, and assisted freshmen throughout the year.</li>
           <li>During the 2020 Covid season, SEASSPAN transitioned to a virtual online preorientation system to assist incoming freshmen.</li>
           </ul>
+
+          <LeftRight>
+          <div className="font-weight-bold">Director of Consulting | TAMID at GWU | Washington, DC </div>
+          <div className="font-italic">October 2018 - Present </div>
+        </LeftRight>
+        <ul>
+          <li>Consulted and served as the project manager for the a pro-bono case with KPMG Israel by conducting industry analysis and customer research to verify supplier identity and to prevent corporate payment fraud.</li>
+          <li>Organized and sourced consulting projects for TAMID at GWU and supervised project managers.</li>
+          </ul> 
+
 
         <h2>Design Projects</h2>
         <LeftRight>
@@ -88,9 +98,10 @@ const Home = () => (
           <div className="font-italic">January 2019 - May 2019 </div>
         </LeftRight>
         <ul>
-          <li>Designed treble and bass speaker with cutoff frequencies of 150 Hz to 4800 Hz and used Multisim to analyze the design. Designed bandpass filters to obtain accurate frequency ranges by chaining 741 Op Amps. </li>
-          <li>Built speaker by soldering, using the breadboard, and wiring. </li>
+          <li>Designed treble and bass speakers with cutoff frequencies of 150 Hz to 4800 Hz and used Multisim to analyze the design. Designed bandpass filters to obtain accurate frequency ranges by chaining 741 Op Amps. </li>
+          <li>Built speaker by soldering and using a breadboard.</li>
           </ul>
+        
         
         <LeftRight>
           <div className="font-weight-bold">Shaft Machine Design Project | Mechanical Engineering | Washington, DC </div>
@@ -98,8 +109,8 @@ const Home = () => (
         </LeftRight>
 
         <ul>
-          <li>Built an E60 steel stepped shafted designed to withstand an alternating torque load of 4500 -7500 lb-in and a safety factor of 1.5. </li>
-          <li>Conducted finite element analysis on the model using Solid Edge, and FEMAP to visualize stress distribution.</li>
+          <li>Built an E60 steel stepped shaft designed to withstand an alternating torque load of 4500-7500 lb-in with a safety factor of 1.5. </li>
+          <li>Conducted finite element analysis on the model using Solid Edge and FEMAP to visualize stress distributions.</li>
           </ul>
 
     
