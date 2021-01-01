@@ -14,10 +14,10 @@ const Home = () => (
   <Container>
     <Row>
       <Col>
-        <ProjectBlock imageSource={BattleBotImage} height={null} title="Battle Bot Competition" description="Fight to the death." />
-        <ProjectBlock imageSource={SpeakerImage} title="Speaker Circuitry" description="For my mechanical engineering class, I did FEM for a shaft." />
-        <ProjectBlock imageSource={ANOVA_Report_Photo} height={null} title="ANOVA report on rat diet" description="Analysis on how certain protein diets affected a rat's weight" />
-        <ProjectBlock imageSource={FEMA_Image} height={null} title="FEMA Consultation" description="Identfying problems that decreases FEMA's application process." /> 
+        <ProjectBlock imageSource={BattleBotImage} height={null} title="Battle Bot Competition" description="Design and Protoptyping" />
+        <ProjectBlock imageSource={SpeakerImage} title="Speaker Circuitry" description="Electrical Engineering and Design" />
+        <ProjectBlock imageSource={ANOVA_Report_Photo} height={null} title="ANOVA report on rat diet" description="ANOVA analysis and model interpretation" />
+        <ProjectBlock imageSource={FEMA_Image} height={null} title="FEMA Consultation" description= "Systems Engineering." /> 
 
       
       </Col>

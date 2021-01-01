@@ -11,7 +11,7 @@ const About = () => (
       
       </Col>
       <Col>
-        Hi! Im George, a senior studying mechanical engineering and minoring in systems engineering. Im from Portland, OR 
+        Hi! Im George, a current senior studying mechanical engineering. Some of my hobbies include sking, playing tennis and playing baseketball. 
       
         
         
