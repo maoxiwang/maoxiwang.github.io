@@ -24,6 +24,22 @@ const Home = () => (
         <BoldColon bold="Languages">English, Mandarin (Proficient) </BoldColon>
         <h2>Technical Experience</h2>
         <LeftRight>
+          <div className="font-weight-bold"> Teaching Assistant | SEAS George Washington University | Washington, DC</div>
+          <div className="font-italic"> August 2020 - December 2020 </div>
+        </LeftRight>
+        <ul> 
+          <li> TA for APSC 1001, an intro to engineering course for undeclared engineering majors. </li>
+          <li> Assist in planning the curriculum, teaching freshmen python code, and host breakout room sessions. </li>
+          </ul>
+        
+          <LeftRight>
+          <div className="font-weight-bold"> Peer Assisted Learning (PAL) | SEAS George Washington University | Washington, DC</div>
+          <div className="font-italic"> August 2020 - December 2020 </div>
+        </LeftRight>
+        <ul> 
+          <li> Tutor general chemistry for incoming freshmen engineering students. </li>
+          </ul>
+        <LeftRight>
           <div className="font-weight-bold">Processing Engineering Intern | Lam Research | Portland, OR</div>
           <div className="font-italic">Deferred to 2021 Summer</div>
         </LeftRight>
@@ -72,6 +88,9 @@ const Home = () => (
         </ul>
 
         <h2>Leadership and Involvement</h2>
+
+        
+     
         <LeftRight>
           <div className="font-weight-bold">SEASSPAN Mentor | SEAS George Washington University | Washington, DC </div>
           <div className="font-italic">September 2019 - Present </div>
@@ -113,9 +132,15 @@ const Home = () => (
           <li>Conducted finite element analysis on the model using Solid Edge and FEMAP to visualize stress distributions.</li>
           </ul>
 
-    
-
-
+          <h2>Miscellaneous</h2>
+        <LeftRight>
+          <div className="font-weight-bold">Speaker Circuit Design Project | Electrical Engineering | Washington, DC </div>
+          <div className="font-italic">January 2019 - May 2019 </div>
+        </LeftRight>
+        <ul>
+          <li>Designed treble and bass speakers with cutoff frequencies of 150 Hz to 4800 Hz and used Multisim to analyze the design. Designed bandpass filters to obtain accurate frequency ranges by chaining 741 Op Amps. </li>
+          <li>Built speaker by soldering and using a breadboard.</li>
+          </ul>
 
       </Col>
     </Row>
