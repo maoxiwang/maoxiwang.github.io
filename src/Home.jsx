@@ -10,6 +10,7 @@ import ANOVA_Report_Photo from './images/ANOVA_Report.png';
 import FEMA_Image from './images/FEMA.png';
 import Spectrometer_Image from './images/Spectrometry.png';
 import DBF_Wing from './images/DBF_Wing.png';
+import Screw_Jack from './images/Screw_Jack.png';
 const Home = () => (
   <Container>
     <Row>
@@ -23,12 +24,13 @@ const Home = () => (
         <ProjectBlock imageSource={DBF_Wing} height={null} title="Capstone Project Design Build Fly" description = "Aerospace Design"/>
         <ProjectBlock imageSource={Airplane_Flow} height={null} title="Design Build Fly" description = "Flow Simulation of Airplane." />
         <ProjectBlock imageSource={ANOVA_Report_Photo} height={null} title="ANOVA report on rat diet" description="ANOVA analysis and model interpretation" />
+        <ProjectBlock imageSource={Spectrometer_Image} height={null} title="Spectrometer Project" description = "Systems Engineering"/>
       
       </Col>
       <Col>
-        <ProjectBlock imageSource={Shaft} title="Finite Element for Gear Shaft" description = "Mechanical Design and Finite Element Analysis" />
+        <ProjectBlock imageSource={Shaft} title="Mechanical Design: Gear Shaft" description = "Mechanical Design and Finite Element Analysis" />
+        <ProjectBlock imageSource={Screw_Jack} title="Manufacturing Project" description = "Designed and Manufactured a Screw Jack" />
         <ProjectBlock imageSource={Regression_Report_Photo} height={null} title="Regression Report on Crime City Data" description = "Variables that correlate to high crime rates analysis"/> 
-        <ProjectBlock imageSource={Spectrometer_Image} height={null} title="Spectrometer Project" description = "Designing and Building a Spectrometer for my class"/>
 
         
       </Col>
