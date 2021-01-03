@@ -9,15 +9,16 @@ const Home = () => (
   <Container>
     <Row>
       <Col>
-        <h1>Resume</h1>
+        <h1>Full Resume</h1>
+        This resume includes everything that I have done, the information on my personal website will exceed one page. My one page resume can be found through this link. 
         <h2>Education</h2>
         <LeftRight>
           <div className="font-weight-bold">Senior | The George Washington University | Washington, DC</div>
           <div className="font-italic">Expected May 2021</div>
         </LeftRight>
-        <div className="font-italic">Bachelor of Science candidate in Mechanical Engineering (BSME) and Minor in Systems/Industrial Engineering</div>
+        <div className="font-italic">Bachelor of Science candidate in Mechanical Engineering (BSME)</div>
         <BoldColon bold="Honors"> 2019-2020 Dean’s List, 2018 Summer Undergraduate Program in Engineering Research Fellowship (S.U.P.E.R)</BoldColon>
-        <BoldColon bold="Relevant Courses">Project Management, Data Analysis for Engineers & Scientists, Requirements Analysis and Elicitation</BoldColon>
+        <BoldColon bold="Technical Courses">Project Management, Data Analysis for Engineers & Scientists, Requirements Analysis and Elicitation, Aerostructures, Aircraft Performance</BoldColon>
         <h2>Skills</h2>
         <BoldColon bold="Software Packages">AutoCAD, Solid Edge, SolidWorks (Proficient), NI Multisim, FEMAP</BoldColon>
         <BoldColon bold="Programming & Data">Python, MATLAB, Minitab, Excel</BoldColon>
@@ -113,6 +114,14 @@ const Home = () => (
 
         <h2>Design Projects</h2>
         <LeftRight>
+          <div className="font-weight-bold">FEMA Consulting Project | Systems Engineering | Washington, DC </div>
+          <div className="font-italic">January 2020 - May 2020 </div>
+        </LeftRight>
+        <ul>
+          <li>Analyzed FEMA's 15 years of collected queue time data through minitab and excel. </li>
+          <li>Presented final deliverables to FEMA on how to reduce queue time</li>
+          </ul>
+        <LeftRight>
           <div className="font-weight-bold">Speaker Circuit Design Project | Electrical Engineering | Washington, DC </div>
           <div className="font-italic">January 2019 - May 2019 </div>
         </LeftRight>
@@ -134,13 +143,17 @@ const Home = () => (
 
           <h2>Miscellaneous</h2>
         <LeftRight>
-          <div className="font-weight-bold">Speaker Circuit Design Project | Electrical Engineering | Washington, DC </div>
-          <div className="font-italic">January 2019 - May 2019 </div>
-        </LeftRight>
-        <ul>
-          <li>Designed treble and bass speakers with cutoff frequencies of 150 Hz to 4800 Hz and used Multisim to analyze the design. Designed bandpass filters to obtain accurate frequency ranges by chaining 741 Op Amps. </li>
-          <li>Built speaker by soldering and using a breadboard.</li>
-          </ul>
+          <div className="font-weight-bold">Collegiate Ballroom Dancer | GWU Ballroom | Washington, DC </div>
+          <div className="font-italic"> September 2017 - May 2019 </div>
+          </LeftRight>
+        <LeftRight>
+          <div className="font-weight-bold"> Professional Table Tennis Player | Portland Table Tennis Club | Portland, OR </div>
+          <div className="font-italic"> September 2005 - May 2017 </div>
+          </LeftRight>
+        <LeftRight>
+          <div className="font-weight-bold"> HackHarvard Contestant | Harvard University | Cambridge, MA </div>
+          <div className="font-italic"> October 19th - 21st 2018 </div>
+          </LeftRight>
 
       </Col>
     </Row>
