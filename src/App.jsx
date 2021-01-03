@@ -10,7 +10,6 @@ import {
 } from "react-router-dom";
 import './style.scss';
 import About from './About';
-
 const App = () => (
   <div className="App">
     <Router>
