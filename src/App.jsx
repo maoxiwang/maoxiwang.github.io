@@ -10,6 +10,7 @@ import {
 } from "react-router-dom";
 import './style.scss';
 import About from './About';
+import BattleBots from './pages/BattleBots';
 const App = () => (
   <div className="App"> 
     <Router>
@@ -20,6 +21,9 @@ const App = () => (
         </Route>
         <Route path="/About">
           <About />
+        </Route>
+        <Route path="/BattleBots">
+          <BattleBots />
         </Route>
         <Route path="/">
           <Home />

@@ -15,15 +15,17 @@ import React from 'react';
 // <Function x={1} y={2} ></Function>
 
 
-const ProjectBlock = ({ title, description, imageSource, height}) => {
+const ProjectBlock = ({ title, description, imageSource, height, link }) => {
   return (
-    <div className ="m-3">
-      <img className="w-100 rounded-top" style={{ objectFit: "cover", height}} src={imageSource} alt={title} />
-      <div className="bg-dark rounded-bottom">
-        <h4 className="px-3 pt-2 m-0 text-white">{title}</h4>
-        <div className="px-3 pb-2 m-0 text-light">{description}</div>
+    <a href={link}>
+      <div className ="m-3">
+        <img className="w-100 rounded-top" style={{ objectFit: "cover", height}} src={imageSource} alt={title} />
+        <div className="bg-dark rounded-bottom">
+          <h4 className="px-3 pt-2 m-0 text-white">{title}</h4>
+          <div className="px-3 pb-2 m-0 text-light">{description}</div>
+        </div>
       </div>
-    </div>
+    </a>
   );
 };
 ProjectBlock.defaultProps = {
