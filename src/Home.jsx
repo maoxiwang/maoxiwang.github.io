@@ -31,8 +31,6 @@ const Home = () => (
         <ProjectBlock imageSource={Shaft} title="Mechanical Design: Gear Shaft" description = "Mechanical Design and Finite Element Analysis" />
         <ProjectBlock imageSource={Screw_Jack} title="Manufacturing Project" description = "Designed and Manufactured a Screw Jack" />
         <ProjectBlock imageSource={Regression_Report_Photo} height={null} title="Regression Report on Crime City Data" description = "Variables that correlate to high crime rates analysis"/> 
-
-        
       </Col>
     </Row>
   </Container>

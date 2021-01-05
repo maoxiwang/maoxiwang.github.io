@@ -11,7 +11,7 @@ const Home = () => (
       <Col>
         <h1>Full Resume</h1>
         This resume includes everything that I have done, the information on my personal website will exceed one page. My one page resume can be found through this 
-        <a href="https://drive.google.com/file/d/1p71BfzyTEPyhLeDYSdvBgQn6z2ikCtfq/view?usp=sharing"> Link</a>.
+        <a href="https://drive.google.com/file/d/1p71BfzyTEPyhLeDYSdvBgQn6z2ikCtfq/view?usp=sharing"> {"Link"}</a>.
         <h2>Education</h2>
         <LeftRight>
           <div className="font-weight-bold">Senior | The George Washington University | Washƒington, DC</div>
@@ -119,8 +119,9 @@ const Home = () => (
           <div className="font-italic">January 2020 - May 2020 </div>
         </LeftRight>
         <ul>
-          <li>Analyzed FEMA's 15 years of collected queue time data through minitab and excel. </li>
-          <li>Presented final deliverables to FEMA on how to reduce queue time</li>
+          <li>Analyzed FEMA's 15 years of collected queue time data through minitab and excel to develope parameters for a simulation model. </li>
+          <li>Developed two different simulations models for FEMA; the current system and the adjusted/improved system and contrasted the two models.</li>
+          <li>Presented final deliverables to FEMA executives on how they queue time and overall effciency of their system. </li>
           </ul>
         <LeftRight>
           <div className="font-weight-bold">Speaker Circuit Design Project | Electrical Engineering | Washington, DC </div>

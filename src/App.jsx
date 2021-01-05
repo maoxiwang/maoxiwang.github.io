@@ -11,7 +11,7 @@ import {
 import './style.scss';
 import About from './About';
 const App = () => (
-  <div className="App">
+  <div className="App"> 
     <Router>
       <Header />
       <Switch>
