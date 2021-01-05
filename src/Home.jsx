@@ -15,7 +15,7 @@ const Home = () => (
   <Container>
     <Row>
       <Col>
-        <ProjectBlock imageSource={BattleBotImage} height={null} title="Battle Bot Competition" description="Design and Protoptyping" />
+        <ProjectBlock imageSource={BattleBotImage} height={null} title="Battle Bot Competition" description="Design and Protoptyping" link="/BattleBots" />
         <ProjectBlock imageSource={SpeakerImage} title="Speaker Circuitry" description="Electrical Engineering and Design" />
         <ProjectBlock imageSource={FEMA_Image} height={null} title="FEMA Consultation" description= "Systems Engineering." /> 
       </Col>
