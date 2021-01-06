@@ -14,7 +14,6 @@ import React from 'react';
 
 // <Function x={1} y={2} ></Function>
 
-
 const ProjectBlock = ({ title, description, imageSource, height, link }) => {
   return (
     <a href={link}>

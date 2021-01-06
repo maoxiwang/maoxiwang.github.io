@@ -11,6 +11,15 @@ import {
 import './style.scss';
 import About from './About';
 import BattleBots from './pages/BattleBots';
+import Capstone from './pages/Capstone';
+import FEMA from'./pages/Capstone'; 
+import Speaker from'./pages/Speaker'; 
+import DBF from './pages/DBF';
+import ANOVA from './pages/ANOVA';
+import Spectrometer from './pages/Spectrometer';
+import Shaft from './pages/Shaft';
+import ScrewJack from './pages/ScrewJack';
+import Regression from './pages/Regression';
 const App = () => (
   <div className="App"> 
     <Router>
@@ -25,6 +34,38 @@ const App = () => (
         <Route path="/BattleBots">
           <BattleBots />
         </Route>
+        <Route path="/Capstone">
+          <Capstone/>
+        </Route>
+        <Route path="/FEMA">
+          <FEMA/>
+        </Route>
+        <Route path="/Speaker">
+          <Speaker/>
+        </Route>
+        <Route path="/DBF">
+          <DBF/>
+        </Route>
+        <Route path="/ANOVA">
+          <ANOVA/>
+        </Route>
+        <Route path="/Spectrometer">
+          <Spectrometer/>
+        </Route>
+        <Route path="/Shaft">
+          <Shaft/>
+        </Route>
+        <Route path="/ScrewJack">
+          <ScrewJack/>
+        </Route>
+        <Route path="/Regression">
+          <Regression/>
+        </Route>
+
+
+
+
+
         <Route path="/">
           <Home />
         </Route>
