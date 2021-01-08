@@ -18,7 +18,6 @@ import DBF from './pages/DBF';
 import ANOVA from './pages/ANOVA';
 import Spectrometer from './pages/Spectrometer';
 import Shaft from './pages/Shaft';
-import ScrewJack from './pages/ScrewJack';
 import Regression from './pages/Regression';
 const App = () => (
   <div className="App"> 
@@ -55,9 +54,7 @@ const App = () => (
         <Route path="/Shaft">
           <Shaft/>
         </Route>
-        <Route path="/ScrewJack">
-          <ScrewJack/>
-        </Route>
+        
         <Route path="/Regression">
           <Regression/>
         </Route>
