@@ -7,9 +7,11 @@ import Speaker4 from '../images/Speaker4.png';
 import Speaker5 from '../images/Speaker5.png';
 import Speaker6 from '../images/Speaker6.png';
 import Speaker7 from '../images/Speaker7.png';
-
+import Speaker8 from '../images/Speaker8.png';
+import Speaker9 from '../images/Speaker9.png';
 
 const BattleBots = () => (
+
   <Container>
     <Row>
       <Col>
@@ -18,41 +20,54 @@ const BattleBots = () => (
         <h2> System Architect </h2>
         The basic system architect is centered around chaining a high pass and low pass fitler together to filter out the undesirable frequencies. Once the frequencies have been filtered, it is connected through an amplifier and lastly to the LED voltage indicator. Below is a photo of the system architect. 
         <div className ="d-flex flex-row justify-content-center w-100"> 
-          <img style={{ objectFit: "cover", width:"50%"}} src={Speaker1} alt={"title"} />
+          <img style={{objectFit: "cover", width:"50%"}} src={Speaker1} alt={"title"} />
         </div>
-
-
 
         <h2>Design Schematics for Treble and Bass Circuits</h2>
         In order to satisfy frequencies requirements, I had to solve for the resistor and capacitor values using the equation omega = 1/(R*C). The calculations and design are displayed below.
 
         <div className ="d-flex flex-row justify-content-center w-100"> 
-          <img style={{ objectFit: "cover", width:"100%"}} src={Speaker2} alt={"title"} />
+          <img style={{objectFit: "cover", width:"100%"}} src={Speaker2} alt={"title"} />
         </div>
         The digital schematics of treble and bass circuits are outlined below.
         <div className ="d-flex flex-row justify-content-center w-100"> 
-          <img style={{ objectFit: "cover", width:"90%"}} src={Speaker3} alt={"title"} />
+          <img style={{objectFit: "cover", width:"90%"}} src={Speaker3} alt={"title"} />
         </div>
 
         <h2>Treble Circuitry Simulation</h2>
 
         <div className ="d-flex flex-row justify-content-center w-100"> 
-          <img style={{ objectFit: "cover", width:"90%"}} src={Speaker4} alt={"title"} />
+          <img style={{objectFit: "cover", width:"90%"}} src={Speaker4} alt={"title"} />
         </div>
         
         <div className ="d-flex flex-row justify-content-center w-100"> 
-          <img style={{ objectFit: "cover", width:"90%"}} src={Speaker5} alt={"title"} />
+          <img style={{objectFit: "cover", width:"90%"}} src={Speaker5} alt={"title"} />
         </div>
 
         <h2>Bass Circuitry Simulation</h2>
 
         <div className ="d-flex flex-row justify-content-center w-100"> 
-          <img style={{ objectFit: "cover", width:"80%"}} src={Speaker6} alt={"title"} />
+          <img style={{objectFit: "cover", width:"80%"}} src={Speaker6} alt={"title"} />
         </div>
+
         <div className ="d-flex flex-row justify-content-center w-100"> 
-          <img style={{ objectFit: "cover", width:"80%"}} src={Speaker7} alt={"title"} />
+          <img style={{objectFit: "cover", width:"80%"}} src={Speaker7} alt={"title"} />
         </div>
-        
+
+        <h2>LED Dispaly (Voltage Ladder) </h2>
+
+        <h3> Treble Circuit</h3>
+
+        <div className ="d-flex flex-row justify-content-center w-100"> 
+          <img style={{objectFit: "cover", width:"80%"}} src={Speaker8} alt={"title"} />
+        </div>
+
+        <h3> Bass Circuit</h3>
+
+        <div className ="d-flex flex-row justify-content-center w-100"> 
+          <img style={{objectFit: "cover", width:"80%"}} src={Speaker9} alt={"title"} />
+        </div>
+
       </Col>
     </Row>
   </Container>
