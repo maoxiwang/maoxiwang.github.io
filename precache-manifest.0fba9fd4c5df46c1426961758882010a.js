@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6ff80a4ecf6e3e487e216852f055dad4",
+    "revision": "83d8d88fb6925927eee16a4387b52c7d",
     "url": "/Website/index.html"
   },
   {
-    "revision": "9708da6959cf7c354512",
+    "revision": "babf63f2feee94835905",
     "url": "/Website/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "565c9142c1c0a6da6caf",
+    "revision": "9290aaf23a432e624d5e",
     "url": "/Website/static/css/main.36d3dee8.chunk.css"
   },
   {
-    "revision": "9708da6959cf7c354512",
-    "url": "/Website/static/js/2.9f792c9e.chunk.js"
+    "revision": "babf63f2feee94835905",
+    "url": "/Website/static/js/2.29a3a5fc.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/Website/static/js/2.9f792c9e.chunk.js.LICENSE.txt"
+    "url": "/Website/static/js/2.29a3a5fc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "565c9142c1c0a6da6caf",
-    "url": "/Website/static/js/main.2518ae81.chunk.js"
+    "revision": "9290aaf23a432e624d5e",
+    "url": "/Website/static/js/main.39b0a97e.chunk.js"
   },
   {
     "revision": "b76995551c5ecba6ae20",
@@ -34,6 +34,42 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee0a701c81ae3d60af6243f0f59b8876",
     "url": "/Website/static/media/BattleBot_image.ee0a701c.png"
+  },
+  {
+    "revision": "ccc425c02d329f4e73995efa0f59f253",
+    "url": "/Website/static/media/Battlebot10.ccc425c0.png"
+  },
+  {
+    "revision": "d25814e02354c9b76b9bf36a9561156a",
+    "url": "/Website/static/media/Battlebot2.d25814e0.png"
+  },
+  {
+    "revision": "cf5245c75a452f916d2f763ec40abe3b",
+    "url": "/Website/static/media/Battlebot3.cf5245c7.png"
+  },
+  {
+    "revision": "200f658a32785eb027076f08e816b656",
+    "url": "/Website/static/media/Battlebot4.200f658a.png"
+  },
+  {
+    "revision": "de352b3fdfc553a6748a8f98d7ecd786",
+    "url": "/Website/static/media/Battlebot5.de352b3f.png"
+  },
+  {
+    "revision": "4e3ad602b795d9e1658acd20c65d4707",
+    "url": "/Website/static/media/Battlebot6.4e3ad602.png"
+  },
+  {
+    "revision": "cc691d567246b216436f49012f793b8d",
+    "url": "/Website/static/media/Battlebot7.cc691d56.png"
+  },
+  {
+    "revision": "66db5dde261738c074bfa4765cb4c229",
+    "url": "/Website/static/media/Battlebot8.66db5dde.png"
+  },
+  {
+    "revision": "9766c5ef76eff35f599e4cc5520b8be0",
+    "url": "/Website/static/media/Battlebot9.9766c5ef.png"
   },
   {
     "revision": "8209ffbbe10f7a6fc4de201f2e5824d6",
