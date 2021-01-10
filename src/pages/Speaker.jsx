@@ -33,8 +33,7 @@ const BattleBots = () => (
         <div className ="d-flex flex-row justify-content-center w-100"> 
           <img style={{objectFit: "cover", width:"90%"}} src={Speaker3} alt={"title"} />
         </div>
-
-        <h2>Treble Circuitry Simulation</h2>
+        To satisfy the 10-20 gain, an amplifier was added at the end of the circuit. By using an input resisor that is ten folds smaller than the final resistor, the sound will be amplified by a factor of 10. This was repeated for both circuits. 
 
         <div className ="d-flex flex-row justify-content-center w-100"> 
           <img style={{objectFit: "cover", width:"90%"}} src={Speaker4} alt={"title"} />
@@ -43,6 +42,8 @@ const BattleBots = () => (
         <div className ="d-flex flex-row justify-content-center w-100"> 
           <img style={{objectFit: "cover", width:"90%"}} src={Speaker5} alt={"title"} />
         </div>
+
+        
 
         <h2>Bass Circuitry Simulation</h2>
 
@@ -54,8 +55,9 @@ const BattleBots = () => (
           <img style={{objectFit: "cover", width:"80%"}} src={Speaker7} alt={"title"} />
         </div>
 
+        The AC sweep provided a better understanding on how well my designed worked. The range of filtered frequency at the -3 dB did exceed a little outside of the desired frequency range, however, this is expected due to uncertainty and percentage error.
         <h2>LED Dispaly (Voltage Ladder) </h2>
-
+          The design behind voltage ladder was to have the op amps act as voltage comparators. When the input voltage is larger than the reference voltage, the output voltage will be V_CC+ and if vice versa the output voltage will be V_CC-. This idea was further used to in the LED lights when the output voltage was V_CC+, an LED display would light up. The digital schematic of both the treble and bass voltage ladder circuit is featured below. The different between the treble and bass are the resistor values. The resistor values were obtained using the basic V = IR equation. 
         <h3> Treble Circuit</h3>
 
         <div className ="d-flex flex-row justify-content-center w-100"> 
@@ -67,7 +69,6 @@ const BattleBots = () => (
         <div className ="d-flex flex-row justify-content-center w-100"> 
           <img style={{objectFit: "cover", width:"80%"}} src={Speaker9} alt={"title"} />
         </div>
-
       </Col>
     </Row>
   </Container>
