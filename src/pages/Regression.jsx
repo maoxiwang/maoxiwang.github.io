@@ -5,7 +5,7 @@ const BattleBots = () => (
   <Container>
     <Row>
       <Col>
-        Hellox
+        asdf
       </Col>
     </Row>
   </Container>
