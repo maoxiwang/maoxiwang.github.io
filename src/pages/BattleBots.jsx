@@ -31,7 +31,7 @@ const BattleBots = () => (
         </div>
 
         <h2>Preliminary Design Phase </h2>
-        THe preliminary design phase included more details in where the placement of the weapons and how they will be operating. Additionally, it contains the position of where the motors will be located. 
+        The preliminary design phase included more details in where the placement of the weapons and how they will be operating. Additionally, it contains the position of where the motors will be located. 
         
         
         <div className ="d-flex flex-row justify-content-center w-100"> 
