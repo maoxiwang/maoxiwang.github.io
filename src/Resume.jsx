@@ -26,16 +26,16 @@ const Home = () => (
         <BoldColon bold="Languages">English, Mandarin (Proficient) </BoldColon>
         <h2>Technical Experience</h2>
         <LeftRight>
-          <div className="font-weight-bold"> Teaching Assistant | SEAS George Washington University | Washington, DC</div>
+          <div className="font-weight-bold"> Teaching&nbsp;Assistant | SEAS George Washington University | Washington, DC</div>
           <div className="font-italic"> August 2020 - December 2020 </div>
         </LeftRight>
-        <ul> 
+        <ul>
           <li> TA for APSC 1001, an intro to engineering course for undeclared engineering majors. </li>
           <li> Assist in planning the curriculum, teaching freshmen python code, and host breakout room sessions. </li>
           </ul>
         
           <LeftRight>
-          <div className="font-weight-bold"> Peer Assisted Learning (PAL) | SEAS George Washington University | Washington, DC</div>
+          <div className="font-weight-bold"> Peer Assisted Learning (PAL) | SEAS GWU | Washington, DC</div>
           <div className="font-italic"> August 2020 - December 2020 </div>
         </LeftRight>
         <ul> 

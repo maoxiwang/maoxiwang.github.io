@@ -17,8 +17,7 @@ const BattleBots = () => (
     <Row>
       <Col>
         <h1>Battle Bot Design Class</h1>
-        In a team of four other students, we designed a Battle Bot with the intention of competing against other teams. However, due to the semester being cut short, we were unable to build our design.The project improved my cadding ability and strengthened my designing ability.
-        The full critical design review is located <a href="https://docs.google.com/presentation/d/1MmfoCpOykdv9uTQPRQjzalEkJGUiM0l5NCjsGhjkdRE/edit?usp=sharing"> {"here."}</a>
+        In a team of four other students, we designed a Battle Bot with the intention of competing against other teams. However, due to the semester being cut short, we were unable to build our design. The project improved my cadding ability and strengthened my designing ability. The full critical design review is located <a href="https://docs.google.com/presentation/d/1MmfoCpOykdv9uTQPRQjzalEkJGUiM0l5NCjsGhjkdRE/edit?usp=sharing"> {"here."}</a>
         
         <h2>Design Thinking </h2>
         We believed that to improve our chances of surviving, we wanted a battle bot that was designed specifcally for skirmishes and capable of dealing consistant damage over time. As such, our design focused mainly on maneuverability, speed, small size, durability, and weapons that dealt consistant damage.The primary weapon was the drum that would be consistently spinning throughout operation. The secondary weapons in the back were two circular saws that spun in the same direction to deflect enemies from sneaking behind. Our biggest risk of this design was the fear of getting flipped over. Our solution was to allow for clearance at both the top and bottom of the body. As such, this was what our initial model was like. 
