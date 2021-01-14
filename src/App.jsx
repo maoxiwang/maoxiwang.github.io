@@ -12,7 +12,7 @@ import './style.scss';
 import About from './About';
 import BattleBots from './pages/BattleBots';
 import Capstone from './pages/Capstone';
-import FEMA from'./pages/Capstone'; 
+import FEMA from'./pages/FEMA'; 
 import Speaker from'./pages/Speaker'; 
 import DBF from './pages/DBF';
 import ANOVA from './pages/ANOVA';
@@ -58,10 +58,6 @@ const App = () => (
         <Route path="/Regression">
           <Regression/>
         </Route>
-
-
-
-
 
         <Route path="/">
           <Home />

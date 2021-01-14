@@ -14,7 +14,7 @@ const Home = () => (
         <a href="https://drive.google.com/file/d/1p71BfzyTEPyhLeDYSdvBgQn6z2ikCtfq/view?usp=sharing"> {"Link"}</a>.
         <h2>Education</h2>
         <LeftRight>
-          <div className="font-weight-bold">Senior | The George Washington University | Washƒington, DC</div>
+          <div className="font-weight-bold">Senior | The George Washington University | Washington, DC</div>
           <div className="font-italic">Expected May 2021</div>
         </LeftRight>
         <div className="font-italic">Bachelor of Science candidate in Mechanical Engineering (BSME)</div>

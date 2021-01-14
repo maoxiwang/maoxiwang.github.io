@@ -1,7 +1,7 @@
 import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 
-const BattleBots = () => (
+const DBF = () => (
   <Container>
     <Row>
       <Col>
@@ -11,4 +11,4 @@ const BattleBots = () => (
   </Container>
 );
 
-export default BattleBots;
+export default DBF;

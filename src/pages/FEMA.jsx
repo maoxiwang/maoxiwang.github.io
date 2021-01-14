@@ -1,13 +1,12 @@
 import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 
-
 const FEMA = () => (
-    <Container>
-      <Row>
-        <Col>
-                HElLO
-        </Col>
+  <Container>
+    <Row>
+      <Col>
+        Hellox
+      </Col>
     </Row>
   </Container>
 );

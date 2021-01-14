@@ -11,6 +11,7 @@ import FEMA_Image from './images/FEMA.png';
 import Spectrometer_Image from './images/Spectrometry.png';
 import DBF_Wing from './images/DBF_Wing.png';
 import Screw_Jack from './images/Screw_Jack.png';
+
 const Home = () => (
 
   <Container>
@@ -20,7 +21,7 @@ Hi, thanks for stopping by! For the best user experience, I recommend using goog
       <Col>
         <ProjectBlock imageSource={BattleBotImage} height={null} title="Battle Bot Competition" description="Design and Protoptyping" link="/BattleBots" />
         <ProjectBlock imageSource={SpeakerImage} title="Speaker Circuitry" description="Electrical Engineering and Design" link ="/Speaker"/>
-        <ProjectBlock imageSource={FEMA_Image} height={null} title="FEMA Consultation" description= "Systems Engineering." link ="FEMA"/> 
+        <ProjectBlock imageSource={FEMA_Image} height={null} title="FEMA Consultation" description= "Systems Engineering." link ="/FEMA"/> 
       </Col>
 
       <Col>
