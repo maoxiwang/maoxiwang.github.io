@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Website/static/css/main.da2a04de.chunk.css",
-    "main.js": "/Website/static/js/main.13826d18.chunk.js",
-    "main.js.map": "/Website/static/js/main.13826d18.chunk.js.map",
+    "main.js": "/Website/static/js/main.23eb27d1.chunk.js",
+    "main.js.map": "/Website/static/js/main.23eb27d1.chunk.js.map",
     "runtime-main.js": "/Website/static/js/runtime-main.ec6b0285.js",
     "runtime-main.js.map": "/Website/static/js/runtime-main.ec6b0285.js.map",
     "static/css/2.11829350.chunk.css": "/Website/static/css/2.11829350.chunk.css",
-    "static/js/2.1bb6a036.chunk.js": "/Website/static/js/2.1bb6a036.chunk.js",
-    "static/js/2.1bb6a036.chunk.js.map": "/Website/static/js/2.1bb6a036.chunk.js.map",
+    "static/js/2.caf70a74.chunk.js": "/Website/static/js/2.caf70a74.chunk.js",
+    "static/js/2.caf70a74.chunk.js.map": "/Website/static/js/2.caf70a74.chunk.js.map",
     "index.html": "/Website/index.html",
-    "precache-manifest.fb915dd8148ae9f4b12bbd4019bf7f9e.js": "/Website/precache-manifest.fb915dd8148ae9f4b12bbd4019bf7f9e.js",
+    "precache-manifest.88757229e8e71be475e49f729fec3c52.js": "/Website/precache-manifest.88757229e8e71be475e49f729fec3c52.js",
     "service-worker.js": "/Website/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/Website/static/css/2.11829350.chunk.css.map",
     "static/css/main.da2a04de.chunk.css.map": "/Website/static/css/main.da2a04de.chunk.css.map",
-    "static/js/2.1bb6a036.chunk.js.LICENSE.txt": "/Website/static/js/2.1bb6a036.chunk.js.LICENSE.txt",
+    "static/js/2.caf70a74.chunk.js.LICENSE.txt": "/Website/static/js/2.caf70a74.chunk.js.LICENSE.txt",
     "static/media/ANOVA_Report.png": "/Website/static/media/ANOVA_Report.61f4e6f5.png",
     "static/media/BattleBot_image.png": "/Website/static/media/BattleBot_image.ee0a701c.png",
     "static/media/Battlebot10.png": "/Website/static/media/Battlebot10.ccc425c0.png",
@@ -50,14 +50,17 @@
     "static/media/Speaker7.png": "/Website/static/media/Speaker7.8ee162a4.png",
     "static/media/Speaker8.png": "/Website/static/media/Speaker8.657809eb.png",
     "static/media/Speaker9.png": "/Website/static/media/Speaker9.7c1b69aa.png",
+    "static/media/Spectrometer1.png": "/Website/static/media/Spectrometer1.d9be1e44.png",
+    "static/media/Spectrometer2.png": "/Website/static/media/Spectrometer2.068d6dbf.png",
+    "static/media/Spectrometer3.png": "/Website/static/media/Spectrometer3.80265506.png",
     "static/media/Spectrometry.png": "/Website/static/media/Spectrometry.3c068548.png",
     "static/media/pro.jpg": "/Website/static/media/pro.6b8e315f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.ec6b0285.js",
     "static/css/2.11829350.chunk.css",
-    "static/js/2.1bb6a036.chunk.js",
+    "static/js/2.caf70a74.chunk.js",
     "static/css/main.da2a04de.chunk.css",
-    "static/js/main.13826d18.chunk.js"
+    "static/js/main.23eb27d1.chunk.js"
   ]
 }
