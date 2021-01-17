@@ -16,6 +16,12 @@ const About = () => (
             Email: maoxiwang@gwu.edu<br />
             Personal Email: maoxigeorgewang3@gmail.com<br />
             LinkedIn: <a href="https://www.linkedin.com/in/maoxigeorgewang/"> {"Here"}</a>
+
+            <br /> 
+
+            <br />
+            
+            If contacting via email, please title email as "Website: 'Purpose'"
           </div>
         
         </div> 

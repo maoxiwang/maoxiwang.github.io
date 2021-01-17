@@ -148,7 +148,7 @@ const ScrewJack = () => (
         <ul>5. 3/8th inch spheres were purchased center and drilled with a #29 and tapped. </ul>
         There were no photos taken during the manufacturing process of this as it mostly involved purchasing parts. 
 
-<h1> Final Produce </h1>
+<h1> Final Product </h1>
 
       <div className="w-100 d-flex flex-row justify-content-center">
           <img className="rounded-top" style={{ objectFit: "cover", width: "70%"}} src={Screw_Jack} alt= "Base" />        

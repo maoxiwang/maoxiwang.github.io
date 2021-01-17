@@ -132,7 +132,7 @@ const Home = () => (
         <ul>
           <li>Analyzed FEMA's 15 years of collected queue time data through minitab and excel to develope parameters for a simulation model. </li>
           <li>Developed two different simulations models for FEMA; the current system and the adjusted/improved system and contrasted the two models.</li>
-          <li>Presented final deliverables to FEMA executives on how they queue time and overall effciency of their system. </li>
+          <li>Presented final deliverables to FEMA executives on how to reduce queue time and improve their overall effciency. </li>
           </ul>
         <LeftRight>
           <div className="font-weight-bold">Speaker Circuit Design Project | Electrical Engineering | Washington, DC </div>
