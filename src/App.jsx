@@ -12,14 +12,14 @@ import './style.scss';
 import About from './About';
 import BattleBots from './pages/BattleBots';
 import Capstone from './pages/Capstone';
-import FEMA from'./pages/Capstone'; 
+import FEMA from'./pages/FEMA'; 
 import Speaker from'./pages/Speaker'; 
 import DBF from './pages/DBF';
 import ANOVA from './pages/ANOVA';
 import Spectrometer from './pages/Spectrometer';
 import Shaft from './pages/Shaft';
-import ScrewJack from './pages/ScrewJack';
 import Regression from './pages/Regression';
+import ScrewJack from './pages/ScrewJack';
 const App = () => (
   <div className="App"> 
     <Router>
@@ -55,16 +55,13 @@ const App = () => (
         <Route path="/Shaft">
           <Shaft/>
         </Route>
-        <Route path="/ScrewJack">
-          <ScrewJack/>
-        </Route>
+        
         <Route path="/Regression">
           <Regression/>
         </Route>
-
-
-
-
+        <Route path="/ScrewJack">
+          <ScrewJack/>
+        </Route>
 
         <Route path="/">
           <Home />

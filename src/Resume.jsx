@@ -14,7 +14,7 @@ const Home = () => (
         <a href="https://drive.google.com/file/d/1p71BfzyTEPyhLeDYSdvBgQn6z2ikCtfq/view?usp=sharing"> {"Link"}</a>.
         <h2>Education</h2>
         <LeftRight>
-          <div className="font-weight-bold">Senior | The George Washington University | Washƒington, DC</div>
+          <div className="font-weight-bold">Senior | The George Washington University | Washington, DC</div>
           <div className="font-italic">Expected May 2021</div>
         </LeftRight>
         <div className="font-italic">Bachelor of Science candidate in Mechanical Engineering (BSME)</div>
@@ -26,16 +26,16 @@ const Home = () => (
         <BoldColon bold="Languages">English, Mandarin (Proficient) </BoldColon>
         <h2>Technical Experience</h2>
         <LeftRight>
-          <div className="font-weight-bold"> Teaching Assistant | SEAS George Washington University | Washington, DC</div>
+          <div className="font-weight-bold"> Teaching&nbsp;Assistant | SEAS George Washington University | Washington, DC</div>
           <div className="font-italic"> August 2020 - December 2020 </div>
         </LeftRight>
-        <ul> 
+        <ul>
           <li> TA for APSC 1001, an intro to engineering course for undeclared engineering majors. </li>
           <li> Assist in planning the curriculum, teaching freshmen python code, and host breakout room sessions. </li>
           </ul>
         
           <LeftRight>
-          <div className="font-weight-bold"> Peer Assisted Learning (PAL) | SEAS George Washington University | Washington, DC</div>
+          <div className="font-weight-bold"> Peer Assisted Learning (PAL) | SEAS GWU | Washington, DC</div>
           <div className="font-italic"> August 2020 - December 2020 </div>
         </LeftRight>
         <ul> 

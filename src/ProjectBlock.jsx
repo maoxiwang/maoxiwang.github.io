@@ -1,5 +1,6 @@
 import React from 'react';
-
+import {Link} from 'react-router-dom';
+import "./style.scss";
 // className = 
 // element html element h1
 // prop is a property which is a parameter for a function
@@ -16,15 +17,15 @@ import React from 'react';
 
 const ProjectBlock = ({ title, description, imageSource, height, link }) => {
   return (
-    <a href={link}>
+    <Link to ={link}>
       <div className ="m-3">
         <img className="w-100 rounded-top" style={{ objectFit: "cover", height}} src={imageSource} alt={title} />
         <div className="bg-dark rounded-bottom">
-          <h4 className="px-3 pt-2 m-0 text-white">{title}</h4>
+          <h1 className="px-3 pt-2 m-0 text-white project-header">{title}</h1>
           <div className="px-3 pb-2 m-0 text-light">{description}</div>
         </div>
       </div>
-    </a>
+    </Link>
   );
 };
 ProjectBlock.defaultProps = {

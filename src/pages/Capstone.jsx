@@ -5,7 +5,7 @@ const Capstone = () => (
   <Container>
     <Row>
       <Col>
-        capstone
+        Hellox
       </Col>
     </Row>
   </Container>
