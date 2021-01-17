@@ -3,7 +3,6 @@ import {Container, Row, Col } from 'react-bootstrap';
 import Screw_Jack from '../images/Screw_Jack.png';
 import ScrewJack1 from '../images/ScrewJack.png';
 import SJ_Top from '../images/SJ_Top.png';
-import SJ_Top_d from'../images/SJ_Top_d.png';
 import SJ_Top_manu from '../images/SJ_Top_manu.png'; 
 import SJ_Top_9 from '../images/SJ_Top_9.png'; 
 import SJ_Top_11 from '../images/SJ_Top_11.png'; 
@@ -35,7 +34,6 @@ const ScrewJack = () => (
   <h2> Overall Design </h2> 
             <div className="w-100 d-flex flex-row justify-content-center">
                 <img className="rounded-top" style={{ objectFit: "cover", width: "60%"}} src={ScrewJack1} alt= "Picture of Screw Jack" />
-            
             </div>
             <div> There is a total of four parts in this screw jack, the top, base, the turning rod, and the threaded rod. Each individual part has its own processing plan and CAD piece. The photo above is after all the parts are assembled.</div>
         

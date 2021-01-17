@@ -10,6 +10,7 @@ import {
 } from "react-router-dom";
 import './style.scss';
 import About from './About';
+import Sample_Writing from './Sample_Writing';
 import BattleBots from './pages/BattleBots';
 import Capstone from './pages/Capstone';
 import FEMA from'./pages/FEMA'; 
@@ -30,6 +31,9 @@ const App = () => (
         </Route>
         <Route path="/About">
           <About />
+        </Route>
+        <Route path="/Sample_Writing">
+          <Sample_Writing />
         </Route>
         <Route path="/BattleBots">
           <BattleBots />
