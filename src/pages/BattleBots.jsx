@@ -22,11 +22,11 @@ const BattleBots = () => (
         <h2>Design Thinking </h2>
         We believed that to improve our chances of surviving, we wanted a battle bot that was designed specifcally for skirmishes and capable of dealing consistant damage over time. As such, our design focused mainly on maneuverability, speed, small size, durability, and weapons that dealt consistant damage. The primary weapon was the drum that would be consistently spinning throughout operation. The secondary weapons in the back were two circular saws that spun in the same direction to deflect enemies from sneaking behind. Our biggest risk of this design was the fear of getting flipped over. Our solution was to allow for clearance at both the top and bottom of the body. As such, this was what our initial model was like. 
         <div className ="d-flex flex-row justify-content-center w-100"> 
-          <img style={{objectFit: "cover", width:"90%"}} src={Battlebot2} alt={"title"} />
+          <img style={{objectFit: "cover", width:"90%"}} src={Battlebot2} alt={"Concept Design"} />
         </div>
         
         <div className ="d-flex flex-row justify-content-center w-100"> 
-          <img style={{objectFit: "cover", width:"90%"}} src={Battlebot3} alt={"title"} />
+          <img style={{objectFit: "cover", width:"90%"}} src={Battlebot3} alt={"Concept Design 2D Drawing"} />
         </div>
 
         <h2>Preliminary Design Phase </h2>
@@ -34,34 +34,34 @@ const BattleBots = () => (
         
         
         <div className ="d-flex flex-row justify-content-center w-100"> 
-          <img style={{objectFit: "cover", width:"90%"}} src={Battlebot4} alt={"title"} />
+          <img style={{objectFit: "cover", width:"90%"}} src={Battlebot4} alt={"Preliminary Design CAD"} />
         </div>
         The internal structure of the cad is shown below.
         <div className ="d-flex flex-row justify-content-center w-100"> 
-          <img style={{objectFit: "cover", width:"90%"}} src={Battlebot5} alt={"title"} />
+          <img style={{objectFit: "cover", width:"90%"}} src={Battlebot5} alt={"Interior of Preliminary Design CAD"} />
         </div>
         <div className ="d-flex flex-row justify-content-center w-100"> 
-          <img style={{objectFit: "cover", width:"80%"}} src={Battlebot6} alt={"title"} />
+          <img style={{objectFit: "cover", width:"80%"}} src={Battlebot6} alt={"2D Drawing of Preliminary Design"} />
         </div>
 
         <h3>Critical Design Review</h3>
         <ul>The critical design review contains more details such as the mounts of the motor and the attachment mechanics for the drum. </ul>
         Isometric View
         <div className ="d-flex flex-row justify-content-center w-100"> 
-          <img style={{objectFit: "cover", width: "80%"}} src={Battlebot7} alt={"title"} />
+          <img style={{objectFit: "cover", width: "80%"}} src={Battlebot7} alt={"Detailed Design CAD"} />
         </div>
         Internal Isometric View
         <div className ="d-flex flex-row justify-content-center w-100"> 
-          <img style={{objectFit: "cover", width: "80%"}} src={Battlebot8} alt={"title"} />
+          <img style={{objectFit: "cover", width: "80%"}} src={Battlebot8} alt={"Interior Detailed Design CAD"} />
         </div>
         Expanded Isometric View
         <div className ="d-flex flex-row justify-content-center w-100"> 
-          <img style={{objectFit: "cover", width: "80%"}} src={Battlebot9} alt={"title"} />
+          <img style={{objectFit: "cover", width: "80%"}} src={Battlebot9} alt={"Expanded View of Interior Design CAD"} />
         </div>
 
         CDR Model Drawing
         <div className ="d-flex flex-row justify-content-center w-100"> 
-          <img style={{objectFit: "cover", width: "80%"}} src={Battlebot10} alt={"title"} />
+          <img style={{objectFit: "cover", width: "80%"}} src={Battlebot10} alt={"Detailed Design 2D CAD"} />
         </div>
 
         Although we were not able to build the physical model, I learned a great deal in how to approach the design process and prototyping. 
