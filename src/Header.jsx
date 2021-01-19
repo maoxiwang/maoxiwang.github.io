@@ -12,7 +12,7 @@ const Header = () => (
         <Nav.Link as={Link} to="/resume">Resume</Nav.Link>
         <Nav.Link as={Link} to="/about">Contact</Nav.Link>
         <Nav.Link as={Link} to="/Sample_Writing">Sample Writing</Nav.Link>
-        <Nav.Link href = "https://www.linkedin.com/in/maoxigeorgewang/" >LinkedIn</Nav.Link>
+        <Nav.Link href = "https://www.linkedin.com/in/maoxigeorgewang/" >LinkedIn Profile</Nav.Link>
        
        
 
