@@ -115,11 +115,20 @@ const Home = () => (
 
         <h2>Design Projects</h2>
         <LeftRight> 
+          <div className="font-weight-bold"> Capstone Project | Mechanical Engineering | Washington, DC </div> 
+          <div classname="font-italic">September 2020 - Present </div> 
+        </LeftRight>
+        <ul> 
+            <li> Led four engineering students in designing aircraft wings for Design Build Fly competition. </li> 
+            <li> Developed CAD and manufacturing plan, and conducted CFD and FE analysis of the designed wings. </li> 
+            </ul>
+        
+        <LeftRight> 
           <div className="font-weight-bold"> Screw Jack Manufacturing Project | Mechanical Engineering | Washington, DC </div> 
           <div classname="font-italic">September 2020 - December 2020 </div> 
         </LeftRight>
         <ul> 
-            <li> Using SolidWorks, designed a screw jack that is capable of lifting at least a 50 lb load. . </li> 
+            <li> Using SolidWorks, designed a screw jack that is capable of lifting at least a 50 lb load.</li> 
             <li> Developed manufacturing/processing plan for each part of screw jack to physically build it.  </li> 
             <li> See Screw Jack from project section for images.  </li> 
             </ul>
