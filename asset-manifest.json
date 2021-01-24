@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Website/static/css/main.da2a04de.chunk.css",
-    "main.js": "/Website/static/js/main.a538bd10.chunk.js",
-    "main.js.map": "/Website/static/js/main.a538bd10.chunk.js.map",
+    "main.js": "/Website/static/js/main.cdd7867b.chunk.js",
+    "main.js.map": "/Website/static/js/main.cdd7867b.chunk.js.map",
     "runtime-main.js": "/Website/static/js/runtime-main.ec6b0285.js",
     "runtime-main.js.map": "/Website/static/js/runtime-main.ec6b0285.js.map",
     "static/css/2.11829350.chunk.css": "/Website/static/css/2.11829350.chunk.css",
-    "static/js/2.77f694fe.chunk.js": "/Website/static/js/2.77f694fe.chunk.js",
-    "static/js/2.77f694fe.chunk.js.map": "/Website/static/js/2.77f694fe.chunk.js.map",
+    "static/js/2.12104675.chunk.js": "/Website/static/js/2.12104675.chunk.js",
+    "static/js/2.12104675.chunk.js.map": "/Website/static/js/2.12104675.chunk.js.map",
     "index.html": "/Website/index.html",
-    "precache-manifest.35aa9a92e51cb5daec97a11939fdd444.js": "/Website/precache-manifest.35aa9a92e51cb5daec97a11939fdd444.js",
+    "precache-manifest.87852520234c378acd5ef574e2043c53.js": "/Website/precache-manifest.87852520234c378acd5ef574e2043c53.js",
     "service-worker.js": "/Website/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/Website/static/css/2.11829350.chunk.css.map",
     "static/css/main.da2a04de.chunk.css.map": "/Website/static/css/main.da2a04de.chunk.css.map",
-    "static/js/2.77f694fe.chunk.js.LICENSE.txt": "/Website/static/js/2.77f694fe.chunk.js.LICENSE.txt",
+    "static/js/2.12104675.chunk.js.LICENSE.txt": "/Website/static/js/2.12104675.chunk.js.LICENSE.txt",
     "static/media/ANOVA_Report.png": "/Website/static/media/ANOVA_Report.61f4e6f5.png",
     "static/media/BattleBot_image.png": "/Website/static/media/BattleBot_image.ee0a701c.png",
     "static/media/Battlebot10.png": "/Website/static/media/Battlebot10.ccc425c0.png",
@@ -25,7 +25,6 @@
     "static/media/Battlebot7.png": "/Website/static/media/Battlebot7.cc691d56.png",
     "static/media/Battlebot8.png": "/Website/static/media/Battlebot8.66db5dde.png",
     "static/media/Battlebot9.png": "/Website/static/media/Battlebot9.9766c5ef.png",
-    "static/media/Capstone1.png": "/Website/static/media/Capstone1.40795a99.png",
     "static/media/Capstone10.png": "/Website/static/media/Capstone10.bf32d99a.png",
     "static/media/Capstone11.png": "/Website/static/media/Capstone11.7ac58012.png",
     "static/media/Capstone12.png": "/Website/static/media/Capstone12.20843563.png",
@@ -99,8 +98,8 @@
   "entrypoints": [
     "static/js/runtime-main.ec6b0285.js",
     "static/css/2.11829350.chunk.css",
-    "static/js/2.77f694fe.chunk.js",
+    "static/js/2.12104675.chunk.js",
     "static/css/main.da2a04de.chunk.css",
-    "static/js/main.a538bd10.chunk.js"
+    "static/js/main.cdd7867b.chunk.js"
   ]
 }
