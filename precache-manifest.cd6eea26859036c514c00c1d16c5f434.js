@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "46aa3bf4265a5fa6fc7d71e4b4b147c3",
+    "revision": "9343417f42b1c8cef7daa39a5742ddd9",
     "url": "/Website/index.html"
   },
   {
-    "revision": "fe04ea6cd28ffeb74b55",
+    "revision": "2df43772cdc54a273240",
     "url": "/Website/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "09ceb316fd4a5d4e1ccd",
+    "revision": "85cfbfd94d71f83fe0ac",
     "url": "/Website/static/css/main.da2a04de.chunk.css"
   },
   {
-    "revision": "fe04ea6cd28ffeb74b55",
-    "url": "/Website/static/js/2.4d72b53f.chunk.js"
+    "revision": "2df43772cdc54a273240",
+    "url": "/Website/static/js/2.f1b1ec8f.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/Website/static/js/2.4d72b53f.chunk.js.LICENSE.txt"
+    "url": "/Website/static/js/2.f1b1ec8f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "09ceb316fd4a5d4e1ccd",
-    "url": "/Website/static/js/main.3c05d7e1.chunk.js"
+    "revision": "85cfbfd94d71f83fe0ac",
+    "url": "/Website/static/js/main.3548745c.chunk.js"
   },
   {
     "revision": "b76995551c5ecba6ae20",
@@ -70,6 +70,50 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9766c5ef76eff35f599e4cc5520b8be0",
     "url": "/Website/static/media/Battlebot9.9766c5ef.png"
+  },
+  {
+    "revision": "40795a99426cefec89f167682687f421",
+    "url": "/Website/static/media/Capstone1.40795a99.png"
+  },
+  {
+    "revision": "bf32d99ae25953021a1373f54616fcf4",
+    "url": "/Website/static/media/Capstone10.bf32d99a.png"
+  },
+  {
+    "revision": "942d854de3363857305027ae8468d3b9",
+    "url": "/Website/static/media/Capstone11.942d854d.png"
+  },
+  {
+    "revision": "9aa92c78bddfe76db01dab80a7ff9324",
+    "url": "/Website/static/media/Capstone2.9aa92c78.png"
+  },
+  {
+    "revision": "ad3b70033621021888fa3b76b7b6ba06",
+    "url": "/Website/static/media/Capstone3.ad3b7003.png"
+  },
+  {
+    "revision": "dcd84e68403d11129b017cca37dba7f5",
+    "url": "/Website/static/media/Capstone4.dcd84e68.png"
+  },
+  {
+    "revision": "71ded1e2db80a16515e59c8f066eff88",
+    "url": "/Website/static/media/Capstone5.71ded1e2.png"
+  },
+  {
+    "revision": "c7d85052911e1e5a9c7897def81ea9cf",
+    "url": "/Website/static/media/Capstone6.c7d85052.png"
+  },
+  {
+    "revision": "3979f6125ad483ee3ae76bf0b3d9aec6",
+    "url": "/Website/static/media/Capstone7.3979f612.png"
+  },
+  {
+    "revision": "cc94781a700673f79442075a12d7757a",
+    "url": "/Website/static/media/Capstone8.cc94781a.png"
+  },
+  {
+    "revision": "2264c0677d88877591e0eaa9faf9deab",
+    "url": "/Website/static/media/Capstone9.2264c067.png"
   },
   {
     "revision": "8209ffbbe10f7a6fc4de201f2e5824d6",
