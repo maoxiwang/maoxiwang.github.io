@@ -1,7 +1,6 @@
 import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 
-import Capstone1 from '../images/Capstone1.png'
 import Capstone2 from '../images/Capstone2.png'
 import Capstone3 from '../images/Capstone3.png'
 import Capstone4 from '../images/Capstone4.png'
@@ -105,6 +104,11 @@ The rib cutouts were determined validated through FEA in Solidworks. Below are f
     <div className ="d-flex flex-row justify-content-center w-100"> 
           <img style={{objectFit: "cover", width:"80%"}} src={Capstone14} alt={"Rib FEA initial cutouts"} />
     </div>
+<br /> 
+<br /> 
+
+Currently, I am working on the manufacturing plan and the design is subject to change for the sake of manufacturability. This is an ongoing project and there is still immense progress to be made. 
+
 
   
       </Col>
