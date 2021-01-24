@@ -99,11 +99,11 @@ A few more minor iterations were made to finalize the aircraft wing design. Diff
     </div>
 The rib cutouts were determined validated through FEA in Solidworks. Below are few initial designs that eventually evolved to the design we currently have. The first photo below is of FEA without any cut outs, and the second is of the initial design cut outs. 
     <div className ="d-flex flex-row justify-content-center w-100"> 
-          <img style={{objectFit: "cover", width:"80%"}} src={Capstone14} alt={"Rib FEA no cutouts"} />
+          <img style={{objectFit: "cover", width:"80%"}} src={Capstone15} alt={"Rib FEA no cutouts"} />
     </div>
 
     <div className ="d-flex flex-row justify-content-center w-100"> 
-          <img style={{objectFit: "cover", width:"80%"}} src={Capstone15} alt={"Rib FEA initial cutouts"} />
+          <img style={{objectFit: "cover", width:"80%"}} src={Capstone14} alt={"Rib FEA initial cutouts"} />
     </div>
 
   
