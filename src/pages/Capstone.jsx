@@ -12,6 +12,10 @@ import Capstone8 from '../images/Capstone8.png'
 import Capstone9 from '../images/Capstone9.png'
 import Capstone10 from '../images/Capstone10.png'
 import Capstone11 from '../images/Capstone11.png'
+import Capstone12 from '../images/Capstone12.png'
+import Capstone13 from '../images/Capstone13.png'
+import Capstone14 from '../images/Capstone14.png'
+import Capstone15 from '../images/Capstone15.png'
 
 const Capstone = () => (
   <Container>
@@ -86,6 +90,22 @@ A second iteration of the design was conducted. The main improvements that went 
     <div className ="d-flex flex-row justify-content-center w-100"> 
           <img style={{objectFit: "cover", width:"80%"}} src={Capstone11} alt={"2nd iteration"} />
     </div>
+A few more minor iterations were made to finalize the aircraft wing design. Differet views of the results are pasted below. 
+    <div className ="d-flex flex-row justify-content-center w-100"> 
+          <img style={{objectFit: "cover", width:"80%"}} src={Capstone12} alt={"2nd it. updates"} />
+    </div>
+    <div className ="d-flex flex-row justify-content-center w-100"> 
+          <img style={{objectFit: "cover", width:"80%"}} src={Capstone13} alt={"2nd it. updates"} />
+    </div>
+The rib cutouts were determined validated through FEA in Solidworks. Below are few initial designs that eventually evolved to the design we currently have. The first photo below is of FEA without any cut outs, and the second is of the initial design cut outs. 
+    <div className ="d-flex flex-row justify-content-center w-100"> 
+          <img style={{objectFit: "cover", width:"80%"}} src={Capstone14} alt={"Rib FEA no cutouts"} />
+    </div>
+
+    <div className ="d-flex flex-row justify-content-center w-100"> 
+          <img style={{objectFit: "cover", width:"80%"}} src={Capstone15} alt={"Rib FEA initial cutouts"} />
+    </div>
+
   
       </Col>
     </Row>
