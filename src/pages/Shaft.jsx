@@ -10,7 +10,7 @@ const Shaft = () => (
   <Container>
     <Row>
       <Col>
-      <h2>Mechanical Design Project: Shaft Design</h2>
+      <h1>Mechanical Design Project: Shaft Design</h1>
       In my mechanical design project, I was tasked to design a twin shaft. The photo below outlines the design and analysis process for the shaft. 
       <div className ="d-flex flex-row justify-content-center w-100"> 
         <img style={{ objectFit: "cover", width:"50%"}} src={Shaft1} alt={"title"} />

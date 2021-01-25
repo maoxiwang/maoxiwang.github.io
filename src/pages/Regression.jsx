@@ -8,6 +8,7 @@ const Regression = () => (
   <Container>
     <Row>
       <Col>
+      <h1>Regression Analysis Project</h1> 
       <br />
         In this <a href ="https://docs.google.com/document/d/1LlVr_sS5cYbF3X2cHxXN607DExPdprTH3N0ngmhmL9Q/edit?usp=sharing"> {"project report"}</a>, I developed a linear regression model from the collected data, developed a diagnostic analysis of the fitted model, justfy the development of the linear regression model, and perform a detailed analysis of the uncertainty of this prediction. 
        <br /> 

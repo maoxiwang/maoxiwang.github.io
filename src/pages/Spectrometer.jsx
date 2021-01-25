@@ -9,6 +9,7 @@ const Spectrometer = () => (
   <Container>
     <Row>
       <Col>
+      <h1> Spectrometry Project </h1>
       The goal of this project was to experience what first hand systems engineering entailed. The class size was around 20 students and was evenly split into five teams. I was on the integration team which focuses on building the mechanical hardware and syncing each subcomponent together. 
 
 <br /> 

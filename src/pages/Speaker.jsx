@@ -15,7 +15,7 @@ const Speaker = () => (
   <Container>
     <Row>
       <Col>
-        <h1>Speaker Project</h1> 
+        <h1>Speaker Circuitry Project</h1> 
         In my circuit theory class, I was tasked with designing a treble and bass speaker circuitry with the following required frequency specifications: bass 150-4800 Hz and treble 3850-10,000 Hz. Along with specific frequency ranges, it required additional features such as a LED voltage indicator, a voltage control metter, and a 10-20 times amplification. The full project report can be found <a href="https://docs.google.com/document/d/1lIMEJsO-nYbNClUHa0lPTZmwZ9UpUC2bwKsLqNGP60M/edit?usp=sharing"> {"Here"}</a>.
         <h2> System Architect </h2>
         The basic system architect is centered around chaining a high pass and low pass fitler together to filter out the undesirable frequencies. Once the frequencies have been filtered, it is connected through an amplifier and lastly to the LED voltage indicator. Below is a photo of the system architect. 
