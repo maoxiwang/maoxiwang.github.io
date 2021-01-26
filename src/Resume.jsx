@@ -11,7 +11,7 @@ const Home = () => (
       <Col>
         <h1>CV/Resume</h1>
         This resume includes everything that I have done, the information on my personal website will exceed one page. My one page resume can be found through this 
-        <a href="https://drive.google.com/file/d/1p71BfzyTEPyhLeDYSdvBgQn6z2ikCtfq/view?usp=sharing"> {"Link"}</a>.
+        <a href="https://drive.google.com/file/d/1LLzlDaASMoxd_-qAU76cWYBM3uzQ70xL/view?usp=sharing"> {"Link"}</a>.
         <h2>Education</h2>
         <LeftRight>
           <div className="font-weight-bold">Senior | The George Washington University | Washington, DC</div>
