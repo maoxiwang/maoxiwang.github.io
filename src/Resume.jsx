@@ -11,7 +11,8 @@ const Home = () => (
       <Col>
         <h1>CV/Resume</h1>
         This resume includes everything that I have done, the information on my personal website will exceed one page. My one page resume can be found through this 
-        <a href="https://drive.google.com/file/d/1LLzlDaASMoxd_-qAU76cWYBM3uzQ70xL/view?usp=sharing"> {"Link"}</a>.
+        <a href="https://drive.google.com/file/d/1LLzlDaASMoxd_-qAU76cWYBM3uzQ70xL/view?usp=sharing"> {"Link"}</a>. Or copy and paste this url: https://drive.google.com/file/d/1LLzlDaASMoxd_-qAU76cWYBM3uzQ70xL/view?usp=sharing
+
         <h2>Education</h2>
         <LeftRight>
           <div className="font-weight-bold">Senior | The George Washington University | Washington, DC</div>
@@ -90,8 +91,6 @@ const Home = () => (
         </ul>
 
         <h2>Leadership and Involvement</h2>
-
-        
      
         <LeftRight>
           <div className="font-weight-bold">SEASSPAN Mentor | SEAS George Washington University | Washington, DC </div>
