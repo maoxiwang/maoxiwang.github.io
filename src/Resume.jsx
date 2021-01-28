@@ -11,7 +11,10 @@ const Home = () => (
       <Col>
         <h1>CV/Resume</h1>
         This resume includes everything that I have done, the information on my personal website will exceed one page. My one page resume can be found through this 
-        <a href="https://drive.google.com/file/d/1LLzlDaASMoxd_-qAU76cWYBM3uzQ70xL/view?usp=sharing"> {"Link"}</a>. Or copy and paste this url: https://drive.google.com/file/d/1LLzlDaASMoxd_-qAU76cWYBM3uzQ70xL/view?usp=sharing
+        <a href="https://drive.google.com/file/d/1LLzlDaASMoxd_-qAU76cWYBM3uzQ70xL/view?usp=sharing"> {"Link"}</a>. 
+        <br /> 
+        <br /> 
+        Or copy and paste this url: https://drive.google.com/file/d/1LLzlDaASMoxd_-qAU76cWYBM3uzQ70xL/view?usp=sharing
 
         <h2>Education</h2>
         <LeftRight>
@@ -42,10 +45,6 @@ const Home = () => (
         <ul> 
           <li> Tutor general chemistry for incoming freshmen engineering students. </li>
           </ul>
-        <LeftRight>
-          <div className="font-weight-bold">Processing Engineering Intern | Lam Research | Portland, OR</div>
-          <div className="font-italic">Deferred to 2021 Summer</div>
-        </LeftRight>
         <ul>
           <li>Due to COVID 19, this internship position was deferred to summer 2021.</li>
         </ul>

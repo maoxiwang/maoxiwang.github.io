@@ -10,6 +10,7 @@ const Sample_Writing = () => (
       <br />
         To view sample of my technical writing, please visit click <a href="https://docs.google.com/document/d/1FHK0k08cXa2j-mFL_KMmv-kDi5ZJZLB-0axIRY9kdKY/edit?usp=sharing"> {"here."}</a>
     <br /> 
+    <br />
     This sample writing was written my senior year first semester. It is a literary review of all the sources I'ved used to influence design decisions of my capstone project. 
     <br /> 
     The lenght is 1.5 pages with 1.5 spacing. The picture below is not the full sample, it is only a photo to make the title page more aesthetic. 
