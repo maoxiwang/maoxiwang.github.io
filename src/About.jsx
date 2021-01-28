@@ -6,7 +6,7 @@ const About = () => (
   <Container>
     <Row>
       <Col>
-        
+        <h1>Contact </h1>
         <div className="d-flex flex-row p-5">
           <div 
             className="p-2"><img src={Headshot} height="300px" alt="Picture of Me"/>
